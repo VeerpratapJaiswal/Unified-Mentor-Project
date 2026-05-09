@@ -2,7 +2,7 @@
 This repository contains code and resources for conducting analysis on employee attrition dataset. The purpose of this project is to explore, analyse, and derive insights from dataset to find out cause of high attrition rate. The analysis encompasses various aspects &amp; factors influencing various events.
 
 ## Project Overview
-
+ 
 **I completed this analysis as part of my 1 month internship at Unified Mentor. I was asked to analyze the employee attrition data &amp; come up with meaningful insights.**
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/veerpratap.jaiswal/viz/GreenDestinationAttritionDataAnalysis_17162636792000/Dashboard)
